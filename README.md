@@ -117,3 +117,21 @@ This submission is structured with scalability and user experience in mind. I we
 * Map/location permissions
 * Robust state management
 * Real-time editing
+
+## 📸 Screenshots
+
+### 🏠 Pay Rent Screen
+![Pay Rent](screenshots/Screenshot%202025-08-02%20at%208.19.15%20PM.png)
+
+### ✅ Pay Rent Saved Screen
+![Pay Rent Saved](screenshots/Screenshot%202025-08-02%20at%208.19.25%20PM.png)
+
+### 📋 Summary View
+![Summary](screenshots/Screenshot%202025-08-02%20at%208.19.38%20PM.png)
+
+### 📍 Location Picker
+![Location](screenshots/Screenshot%202025-08-02%20at%208.19.59%20PM.png)
+
+### 📞 Phone Input + Calendar
+![Phone & Calendar](screenshots/Screenshot%202025-08-02%20at%208.20.11%20PM.png)
+
