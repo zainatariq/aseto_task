@@ -83,7 +83,12 @@ This project is a submission for the Aseto Flutter take-home challenge. I implem
 lib/
 ├── screens/
 │   ├── create_account/
-│   ├── pay_rent/
+│   ├──<img width="426" height="935" alt="Screenshot 2025-08-02 at 8 20 11 PM" src="https://github.com/user-attachments/assets/6c14973e-34ad-4946-9ad7-55fa97ee2b08" />
+<img width="431" height="982" alt="Screenshot 2025-08-02 at 8 19 59 PM" src="https://github.com/user-attachments/assets/a04fe93e-57f4-4d02-91dc-ed578dd9801d" />
+<img width="423" height="947" alt="Screenshot 2025-08-02 at 8 19 38 PM" src="https://github.com/user-attachments/assets/a2ede062-af3b-4e3b-94be-f6abbf87887d" />
+<img width="429" height="943" alt="Screenshot 2025-08-02 at 8 19 25 PM" src="https://github.com/user-attachments/assets/47a60441-ca2e-4834-8ba5-8ad388dfe496" />
+<img width="425" height="937" alt="Screenshot 2025-08-02 at 8 19 15 PM" src="https://github.com/user-attachments/assets/d45a0cb5-0808-490d-a242-0aa5345d033e" />
+ pay_rent/
 │   └── pay_rent_saved/
 ├── controllers/
 ├── models/
