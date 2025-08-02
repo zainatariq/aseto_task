@@ -118,20 +118,31 @@ This submission is structured with scalability and user experience in mind. I we
 * Robust state management
 * Real-time editing
 
+
+ 
+---
+
 ## 📸 Screenshots
 
 ### 🏠 Pay Rent Screen
-![Pay Rent](screenshots/Screenshot%202025-08-02%20at%208.19.15%20PM.png)
+
+<img src="screenshots/Screenshot 2025-08-02 at 8.19.15 PM.png" alt="Pay Rent" width="400"/>
 
 ### ✅ Pay Rent Saved Screen
-![Pay Rent Saved](screenshots/Screenshot%202025-08-02%20at%208.19.25%20PM.png)
+
+<img src="screenshots/Screenshot 2025-08-02 at 8.19.25 PM.png" alt="Pay Rent Saved" width="400"/>
 
 ### 📋 Summary View
-![Summary](screenshots/Screenshot%202025-08-02%20at%208.19.38%20PM.png)
+
+<img src="screenshots/Screenshot 2025-08-02 at 8.19.38 PM.png" alt="Summary View" width="400"/>
 
 ### 📍 Location Picker
-![Location](screenshots/Screenshot%202025-08-02%20at%208.19.59%20PM.png)
+
+<img src="screenshots/Screenshot 2025-08-02 at 8.19.59 PM.png" alt="Location Picker" width="400"/>
 
 ### 📞 Phone Input + Calendar
-![Phone & Calendar](screenshots/Screenshot%202025-08-02%20at%208.20.11%20PM.png)
 
+<img src="screenshots/Screenshot 2025-08-02 at 8.20.11 PM.png" alt="Phone & Calendar" width="400"/>
+
+---
+ 
